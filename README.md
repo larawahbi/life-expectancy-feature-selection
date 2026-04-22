@@ -8,7 +8,7 @@ Systematic feature selection and predictive modelling on WHO global health data 
 
 ## About
 
-Built by [Lara Wahbi](https://www.linkedin.com/in/laraamro/) as a self-directed portfolio project in applied machine learning and statistical analysis. The project was designed to address a key gap in exploratory work — formally testing which variables matter and comparing model performance systematically, rather than assuming feature relevance from correlation alone.
+Built by [Lara Amro](https://www.linkedin.com/in/laraamro/) as a self-directed portfolio project in applied machine learning and statistical analysis. The project was designed to address a key gap in exploratory work — formally testing which variables matter and comparing model performance systematically, rather than assuming feature relevance from correlation alone.
 
 **Background:** 8+ years in data engineering, business intelligence, and data governance across international organisations including UNHCR, WFP, and IFRC.
 
